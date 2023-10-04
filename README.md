@@ -16,7 +16,7 @@
 
 ## contact
 
-- Discord: `@thegoodboi_`
+- Discord: [@thegoodboi_](https://discord.com/users/515025828736794654)
   
 <!--
 **TheGoodBoi411/thegoodboi411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
