@@ -17,6 +17,7 @@
 ## contact
 
 - Discord: [@thegoodboi_](https://discord.com/users/515025828736794654)
+- The platform formerly known as Twitter: [@thegoodboi_](https://twitter.com/thegoodboi_)
   
 <!--
 **TheGoodBoi411/thegoodboi411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
