@@ -5,7 +5,7 @@
 ## some of my repositories
 
 - [dot-net](https://github.com/TheGoodBoi411/dot-net) - my website
-- [youtube-roulette](https://thegoodboi411.github.io/youtube-roulette/) - discover some weird YouTube videos
+- [youtube-roulette](https://thegoodboi411.github.io/youtube-roulette/) - discover some weird YouTube videos, based on a video series by [Yub](youtube.com/yub)
 - [undysfunctional-mapping-functions](https://github.com/TheGoodBoi411/undysfunctional-mapping-functions) - functions for Beat Saber NE maps
 
 ## self-plugs
